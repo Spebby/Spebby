@@ -10,5 +10,6 @@ I'm a game developer hoping to make something enjoyable and special, while conti
   * A Chess Engine using bitboards and other advanced techniques built in Dear ImGui
   * A curated modding project for the video game [Unturned](https://store.steampowered.com/app/304930/Unturned/)
 
+WakaTime since 12/Feb/2025
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@6c1b4d80-35ad-487a-a081-efc861c8d411/78c7b7f5-3ea9-4cbb-8145-43eeb184d6e3.png"/></a>
 <a href="https://wakatime.com"><img src="https://wakatime.com/share/@6c1b4d80-35ad-487a-a081-efc861c8d411/40d02a12-58df-4001-899a-23c4423e7751.png"/></a>
