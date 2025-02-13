@@ -2,7 +2,8 @@
 
 <hr>
 
-My name is Thom (Spebby) Mott, I'm an game developer and aspiring graphics programmer hoping to make something enjoyable and special, while continuing to learn more about computers and the languages in which we communicate with them. I'm currently a student at the University of California, Santa Cruz.
+My name is Thom (Spebby) Mott,
+I'm a game developer hoping to make something enjoyable and special, while continuing to learn more about computers and the languages in which we communicate with them. I'm currently a student at the University of California, Santa Cruz. I am most comfortable with the C family of languages, but have experience in Python, Java, JS and TypeScript.
 
 * What am I cooking?
   * An AR Mobile application meant to build community and climate resilience
